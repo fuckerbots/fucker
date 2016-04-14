@@ -211,22 +211,22 @@ function create_config( )
     "invite",
     "spams",
     },
-    sudo_users = {192916039,208898661,188108658},--Sudo users
+    sudo_users = {219602465,177340295},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Pride Bot v1 
+    about_text = [[NORTON FUCKER Bot v1 
 An advance Administration bot based on Teleseed Plugins
 
-https://github.com/MRAHS/PRIDE-bot
+https://github.com/close.source
 
 Admin:
-@O_o_i_o_O
+@NORTON_SUDO
 
 Special thanks to :
-@Mr_Ah_S & @SBSS_Team
+@c_n_a
 
 Our channel :
-@Pride_Team
+@norton_team
 ]],
     help_text_realm = [[
 Realm Commands:
