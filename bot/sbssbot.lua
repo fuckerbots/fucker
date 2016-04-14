@@ -211,7 +211,7 @@ function create_config( )
     "invite",
     "spams",
     },
-    sudo_users = {219602465,177340295},--Sudo users
+    sudo_users = {182894687,177340295},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[NORTON FUCKER Bot v1 
