@@ -207,6 +207,7 @@ function create_config( )
     "me",
     "yid",
     "xid",
+    "zid",
     "auto",
     "invite",
     "spams",
