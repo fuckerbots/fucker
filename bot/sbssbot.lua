@@ -206,6 +206,7 @@ function create_config( )
     enabled_plugins = {
     "me",
     "yid",
+    "xy",
     "xid",
     "zid",
     "auto",
